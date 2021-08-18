@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bret Shroats
+- 👋 Hi, I’m ... Bret Shroats
 - 👀 I’m interested in ... Web design 
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... anything you need help on.
